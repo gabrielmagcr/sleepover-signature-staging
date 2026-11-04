@@ -1349,20 +1349,5 @@
       "Windhoek, Namibia"
     ],
     "nameImage": "names/namibia/heinrich-jansen-van-vuuren.png"
-  },
-  {
-    "slug": "Test-Person",
-    "region": "Namibia",
-    "name": "Test Person",
-    "position": "QA TESTER",
-    "phone": "+264 81 000 0000",
-    "email": "test.person@example.com",
-    "officePhone": "",
-    "website": "sleepover.travel",
-    "address": [
-      "24 Orban Street,",
-      "Windhoek, Namibia"
-    ],
-    "nameImage": "names/namibia/test-person.png"
   }
 ]
