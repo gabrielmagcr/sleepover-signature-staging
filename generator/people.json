@@ -1148,6 +1148,20 @@
     "nameImage": "names/south-africa/sleepover-upington-rec.png"
   },
   {
+    "slug": "Gabriel-Arias",
+    "region": "South Africa",
+    "name": "Gabriel Arias",
+    "position": "DEV",
+    "phone": "0424528741",
+    "email": "gabriel@mag.cr",
+    "officePhone": "+27 (0)10 110 9900",
+    "website": "sleepover.travel",
+    "address": [
+      "6801 NW 82nd Ave"
+    ],
+    "nameImage": "names/south-africa/gabriel-arias.png"
+  },
+  {
     "slug": "Phillip-Ragolane",
     "region": "Safaris",
     "name": "Phillip Ragolane",
